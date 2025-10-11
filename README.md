@@ -1,4 +1,4 @@
-## Athlete Events – Kellogg's Sponsorship Analytics Dashboard
+## Athlete Events – Kellogg's Sponsorship Analytics
 
 ## Project Overview
 
