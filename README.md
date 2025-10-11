@@ -1,5 +1,8 @@
 ## Athlete Events – Kellogg's Sponsorship Analytics
 
+<img width="975" height="703" alt="all-sports" src="https://github.com/user-attachments/assets/cb4aa76c-2480-4019-a10f-f0ed2416ddd8" />
+
+
 ## Project Overview
 
 This project analyzes Olympic athlete event data to help Kellogg’s identify high-impact sports and athletes for potential sponsorship in upcoming Olympic Games. It aims to uncover top-performing countries, medal trends, sport popularity, and gender participation patterns to drive strategic marketing decisions.
